@@ -1,6 +1,6 @@
 # Medical Dashboard
 
-![Medical Dashboard](path_to_your_image.png)
+![Medical Dashboard](Dashboard.png)
 
 ## Overview
 This is a Medical Dashboard designed to visualize and analyze medical data. It provides insights into key patient-related factors such as **Patient Admit Date**, **Discharge Date**, **Follow-up Date**, and **Billing Amount**. Various types of visualizations, including **Bar Charts**, **Donut Charts**, **Time Series**, and **Funnel Charts**, are used to represent the data effectively. The dashboard also includes dynamic filtering options for a more interactive user experience.
